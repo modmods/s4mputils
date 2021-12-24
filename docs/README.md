@@ -1,6 +1,5 @@
 # s4mputils
 Various utilities for use with s4mp
-Created by Dan Comstock 12/23/2021
 
 ---
 ## Not affiliated with s4mp team, please DO NOT bug them with issues with these scripts.  Create an issue on this repo instead.
